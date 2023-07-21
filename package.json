@@ -1,0 +1,12 @@
+{
+  "name": "typegoose-prop-type-issue",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@typegoose/typegoose": "^11.4.0",
+    "mongoose": "^7.4.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
